@@ -2,7 +2,7 @@
 
 Live at ... 
 1) https://the-cook-book-b1fa1.web.app
-2) https://the-cook-book-b1fa1.firebase.com
+2) https://the-cook-book-b1fa1.firebaseapp.com
 
 ## Project setup
 ```
