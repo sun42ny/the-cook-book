@@ -1,5 +1,9 @@
 # the-cook-book
 
+Live at ... 
+1) the-cook-book-b1fa1.web.app
+2) the-cook-book-b1fa1.firebase.com
+
 ## Project setup
 ```
 npm install
