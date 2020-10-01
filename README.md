@@ -2,7 +2,7 @@
 
 Live at ... 
 1) [The Cook Book](https://the-cook-book-b1fa1.web.app)
-2) [The Cook Book](https://the-cook-book-b1fa1.firebaseapp.com) ~ Alternatove Link
+2) [The Cook Book](https://the-cook-book-b1fa1.firebaseapp.com) ~ Alternative Link
 
 ## Project setup
 ```
