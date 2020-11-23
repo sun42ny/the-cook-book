@@ -13,7 +13,7 @@
     "slugify": "^1.4.5",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9",
-    "vuetify": "^2.3.17"
+    "vuetify": "^2.3.18"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.8",
